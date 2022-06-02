@@ -1,6 +1,8 @@
+// swift-tools-version: 5.6
 import PackageDescription
 
 let package = Package(
+    
     name: "KoreanStringSearchHelper",
     platforms: [
         .iOS(.v13)
