@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KoreanStringSearchHelper'
-  s.version          = '0.9.9'
+  s.version          = '1.0.0'
   s.summary          = 'Support Korean initial search and Korean partial search.'
   s.swift_versions = '5.0'
   
