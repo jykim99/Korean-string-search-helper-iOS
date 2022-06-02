@@ -1,9 +1,9 @@
 # KoreanStringSearchHelper
 
-[![CI Status](https://img.shields.io/travis/42582071/KoreanStringSearchHelper.svg?style=flat)](https://travis-ci.org/42582071/KoreanStringSearchHelper)
 [![Version](https://img.shields.io/cocoapods/v/KoreanStringSearchHelper.svg?style=flat)](https://cocoapods.org/pods/KoreanStringSearchHelper)
 [![License](https://img.shields.io/cocoapods/l/KoreanStringSearchHelper.svg?style=flat)](https://cocoapods.org/pods/KoreanStringSearchHelper)
 [![Platform](https://img.shields.io/cocoapods/p/KoreanStringSearchHelper.svg?style=flat)](https://cocoapods.org/pods/KoreanStringSearchHelper)
+[![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/KoreanStringSearchHelper)
 
 ## Example
 
