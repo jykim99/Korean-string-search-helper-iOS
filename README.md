@@ -6,7 +6,7 @@
 [![SwiftPM](https://img.shields.io/badge/SPM-supported-DE5C43.svg?style=flat)](https://swift.org/package-manager/KoreanStringSearchHelper)
 
 ## Summary
-This library helps Korean string **initial matching(초성 매칭)** and **partial matching(부분 매칭)**.
+This library supports Korean string **initial matching(초성 매칭)** and **partial matching(부분 매칭)**.
 
 ## Demo App
 
