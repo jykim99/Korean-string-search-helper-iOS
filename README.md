@@ -128,3 +128,6 @@ pod 'KoreanStringSearchHelper'
 ## License
 
 KoreanStringSearchHelper is available under the MIT license. See the LICENSE file for more info.
+
+참고자료
+http://minsone.github.io/mac/ios/linear-hangul-in-objective-c-swift
